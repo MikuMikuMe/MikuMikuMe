@@ -12,7 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Green+check%3F+Ask+it+to+do+that+again.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile introduction: insight over numbers, repeat the green check, and read the failure mode." />
 
-<sub>Static fallback: insight over numbers · repeat the green check · read the failure mode.</sub>
 
 # Kay Yan 🧪
 ### I build AI systems that make training data earn its way in.
