@@ -24,7 +24,6 @@
 $ ./profile --status
 focus  : AI eval / data flywheels
 latest : Execution Gold @ Meituan
-rule   : repeat the green check
 ```
 
 ## 🧪 Meituan — Execution Gold
@@ -53,4 +52,4 @@ A selective-distillation pilot showed a **10.53 percentage-point difference** in
 
 ## 🐛 Outside the lab
 
-Anime, board games, badminton, and politely asking green checks to do it again.
+Anime, board games, and badminton.
