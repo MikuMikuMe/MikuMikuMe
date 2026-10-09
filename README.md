@@ -1,60 +1,61 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg">
+    <img alt="Animated contribution activity snake showing my GitHub work over time" src="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg" width="800">
+  </picture>
+</p>
+
+<p align="center"><sub>Contribution activity, refreshed automatically by GitHub Actions.</sub></p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Green+check%3F+Ask+it+to+do+that+again.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Green+check%3F+Ask+it+to+do+that+again.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile introduction: insight over numbers, repeat the green check, and read the failure mode." />
+
+<sub>Static fallback: insight over numbers · repeat the green check · read the failure mode.</sub>
 
 # Kay Yan 🧪
 ### I build AI systems that make training data earn its way in.
+
+I build evaluation gates that make agent outputs prove themselves before they enter training data.
 
 `CS @ Queen's` · `LLM training` · `agentic evaluation`
 
 </div>
 
+**Start here:** [Browse my repositories](https://github.com/MikuMikuMe?tab=repositories)
+
 ```text
 $ ./profile --status
-role      : AI systems / evaluation / data flywheels
+focus     : AI systems / evaluation / data flywheels
 latest    : Execution Gold @ Meituan
-verdict   : fail-closed — “it passed once” is not a methodology
+verdict   : fail-closed — repeat the green check
 ```
 
-## 🧪 Featured experiment — Meituan
+## 🧪 Meituan — Execution Gold
 
 During my internship on Meituan’s **M17 Foundation Model Team – Agent**, I worked on **Execution Gold**, a sandbox-verified data-admission protocol for agent training.
 
 It combines **3× execution consistency**, **immutable artifacts**, and **infrastructure-failure isolation** so training data has to prove it belongs in the flywheel.
 
-```text
-707 candidates  →  666 evaluation slots  →  15 repository families
-```
+**Scale:** 707 SWE-bench candidates screened across **15 repository families**, yielding **666 evaluation slots**.
 
 <details>
-<summary>📎 Metrics, with their seatbelts on</summary>
+<summary>📎 Metrics, with receipts</summary>
 
-A selective-distillation pilot showed a **10.53 percentage-point difference**. The paper treats this as trend-level evidence from a limited sample—not a universal win. I like my claims reproducible and my confidence intervals attached.
+A selective-distillation pilot showed a **10.53 percentage-point difference** in a small, limited-sample run. The paper treats this as directional evidence—not a universal win. I like my claims reproducible and my confidence intervals attached.
 
 </details>
 
-## 🧰 I work with
+## 🧰 Tools I actually use
 
-`Python` `Java` `C` `Bash` `Docker` `Linux` `Azure` `MCP`
+**Languages:** `Python` `Java` `C` `Bash`  
+**Systems:** `Docker` `Linux` `Azure` `MCP`
 
-## 🧭 Previously
+## 🧭 Earlier chapters
 
 **Meituan** · **Capgemini** · **HELLO COSMOS**
 
 ## 🐛 Outside the lab
 
-Anime, board games, badminton, and explaining to models that “passed once” ≠ “works.”
-
-<details>
-<summary>🐍 Live activity, but make it slither</summary>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg">
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg" width="800">
-  </picture>
-</p>
-
-<sub>Refreshed automatically by GitHub Actions.</sub>
-</details>
+Anime, board games, badminton, and politely asking green checks to do it again.
