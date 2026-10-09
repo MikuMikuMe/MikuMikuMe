@@ -1,0 +1,32 @@
+name: Generate profile animation
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MikuMikuMe
+          outputs: |
+            dist/profile-snake.svg
+            dist/profile-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated assets
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
