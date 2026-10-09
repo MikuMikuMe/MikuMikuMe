@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=AI+systems+with+a+seatbelt;Execution+Gold+%40+Meituan;It+passed+once+%E2%89%A0+science" alt="Animated profile intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Green+check%3F+Ask+it+to+do+that+again.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile intro" />
 
 # Kay Yan 🧪
 ### I build AI systems that make training data earn its way in.
