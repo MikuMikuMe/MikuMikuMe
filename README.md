@@ -14,7 +14,7 @@
 
 
 # Kay Yan 🧪
-### Looking for my next internship—and a good problem to overthink.
+### I like building things, asking better questions, and seeing what breaks.
 
 `CS @ Queen's` · `LLM training` · `agentic evaluation`
 
