@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=AI+systems+with+a+seatbelt;Execution+Gold+%40+Meituan;It+passed+once+%E2%89%A0+science" alt="Animated profile intro" />
+
 # Kay Yan 🧪
 ### I build AI systems that make training data earn its way in.
 
@@ -42,3 +44,17 @@ A selective-distillation pilot showed a **10.53 percentage-point difference**. T
 ## 🐛 Outside the lab
 
 Anime, board games, badminton, and explaining to models that “passed once” ≠ “works.”
+
+<details>
+<summary>🐍 Live activity, but make it slither</summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg">
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/MikuMikuMe/MikuMikuMe/output/profile-snake.svg" width="800">
+  </picture>
+</p>
+
+<sub>Refreshed automatically by GitHub Actions.</sub>
+</details>
