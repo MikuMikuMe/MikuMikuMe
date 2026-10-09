@@ -27,9 +27,9 @@ I build evaluation gates that make agent outputs prove themselves before they en
 
 ```text
 $ ./profile --status
-focus     : AI systems / evaluation / data flywheels
-latest    : Execution Gold @ Meituan
-verdict   : fail-closed — repeat the green check
+focus  : AI eval / data flywheels
+latest : Execution Gold @ Meituan
+rule   : repeat the green check
 ```
 
 ## 🧪 Meituan — Execution Gold
