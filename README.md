@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=800&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile introduction about insight over numbers and reading failure modes." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=1200&color=0284C7&center=true&vCenter=true&width=800&lines=The+purpose+of+computing+is+insight%2C+not+numbers.;Failure+modes+are+where+the+plot+thickens." alt="Animated profile introduction about insight over numbers and reading failure modes." />
 
 
 # Kay Yan 🧪
