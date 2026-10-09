@@ -14,9 +14,7 @@
 
 
 # Kay Yan 🧪
-### I build AI systems that make training data earn its way in.
-
-I build evaluation gates that make agent outputs prove themselves before they enter training data.
+### Currently looking for my next internship in AI/ML, systems, or evaluation.
 
 `CS @ Queen's` · `LLM training` · `agentic evaluation`
 
