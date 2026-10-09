@@ -14,7 +14,7 @@
 
 
 # Kay Yan 🧪
-### Currently looking for my next internship in AI/ML, systems, or evaluation.
+### Looking for my next internship—and a good problem to overthink.
 
 `CS @ Queen's` · `LLM training` · `agentic evaluation`
 
