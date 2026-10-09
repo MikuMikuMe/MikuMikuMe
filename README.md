@@ -20,8 +20,6 @@
 
 </div>
 
-**Start here:** [Browse my repositories](https://github.com/MikuMikuMe?tab=repositories)
-
 ```text
 $ ./profile --status
 focus  : AI eval / data flywheels
