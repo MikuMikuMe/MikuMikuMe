@@ -14,7 +14,7 @@
 
 
 # Kay Yan
-### I like building things, asking better questions, and seeing what breaks.
+### I like building things at a production level, asking better questions, and seeing what breaks.
 
 `CS @ Queen's` · `LLM training` · `agentic evaluation`
 
